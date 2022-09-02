@@ -1,0 +1,90 @@
+$bug-color: rgb(168, 184, 32, 0.5);
+$dark-color: rgb(112, 88, 72, 0.5);
+$dragon-color: rgb(112, 56, 248, 0.5);
+$electric-color: rgb(248, 208, 48, 0.5);
+$fairy-color: rgb(238, 153, 172, 0.5);
+$fighting-color: rgb(192, 48, 40, 0.5);
+$fire-color: rgb(240, 128, 48, 0.5);
+$flying-color: rgb(168, 144, 240, 0.5);
+$ghost-color: rgb(112, 88, 152, 0.5);
+$grass-color: rgb(120, 200, 80, 0.5);
+$ground-color: rgb(224, 192, 104, 0.5);
+$ice-color: rgb(152, 216, 216, 0.5);
+$normal-color: rgb(168, 168, 120, 0.5);
+$poison-color: rgb(160, 64, 160, 0.5);
+$psychic-color: rgb(248, 88, 136, 0.5);
+$rock-color: rgb(184, 160, 56, 0.5);
+$steel-color: rgb(184, 184, 208, 0.5);
+$water-color: rgb(104, 144, 240, 0.5);
+
+.bug-type {
+    background: $bug-color !important;
+}
+
+.dark-type {
+    background: $dark-color !important;
+}
+
+.dragon-type {
+    background: $dragon-color !important;
+}
+
+.electric-type {
+    background: $electric-color !important;
+}
+
+.fairy-type {
+    background: $fairy-color !important;
+}
+
+.fighting-type {
+    background: $fighting-color !important;
+}
+
+.fire-type {
+    background: $fire-color !important;
+}
+
+.flying-type {
+    background: $flying-color !important;
+}
+
+.ghost-type {
+    background: $ghost-color !important;
+}
+
+.grass-type {
+    background: $grass-color !important;
+}
+
+.ground-type {
+    background: $ground-color !important;
+}
+
+.ice-type {
+    background: $ice-color !important;
+}
+
+.normal-type {
+    background: $normal-color !important;
+}
+
+.poison-type {
+    background: $poison-color !important;
+}
+
+.psychic-type {
+    background: $psychic-color !important;
+}
+
+.rock-type {
+    background: $rock-color !important;
+}
+
+.steel-type {
+    background: $steel-color !important;
+}
+
+.water-type {
+    background: $water-color !important;
+}
